@@ -11,7 +11,8 @@
 
 #container {
   box-sizing: border-box;
-  margin: 88px 80px;
+  padding: 88px 80px;
+  margin: 1px;
 }
 
 h1 {
@@ -67,4 +68,16 @@ img {
   height: 1px;
   margin: 36px 0;
   background-color: #d9d9d9;
+}
+
+.number {
+  font-size: 28px;
+  font-weight: bold;
+  list-style: decimal;
+  margin: 0 0 0 40px;
+}
+
+li {
+  margin: 0 0 0 30px;
+  list-style: disc;
 }
