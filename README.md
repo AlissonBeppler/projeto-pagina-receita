@@ -1,2 +1,2 @@
 Projeto desenvolvido por Alisson Beppler, utilizando como guia as aulas do curso full-stack da Rocketseat.
-![image](https://github.com/user-attachments/assets/c66f09e6-7ddd-4437-abdb-8c6a6e68cf39)
+![Projeto-pagina-turismo](https://github.com/user-attachments/assets/b8425459-113e-4ec2-9f94-392797fa4dc5)
