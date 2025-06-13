@@ -11,8 +11,7 @@
 
 #container {
   box-sizing: border-box;
-  padding: 88px 80px;
-  margin: 1px;
+  margin: 88px 80px 65px 80px;
 }
 
 h1 {
@@ -37,7 +36,6 @@ h3 {
   font-style: italic;
   width: 1120px;
   margin: 24px auto 44px;
-
 }
 
 #title-list {
@@ -46,6 +44,25 @@ h3 {
 
 .card-travel {
   margin-bottom: 48px;
+}
+
+.card-travel img {
+  margin-bottom: 20px;
+}
+
+#ending {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-weight: 16px;
+  padding-bottom: 48px;
+}
+
+footer img {
+  width: 16px;
+  vertical-align: middle;
 }
 
 /* cores */
