@@ -44,6 +44,10 @@ h3 {
   margin: 64px 0;
 }
 
+.card-travel {
+  margin-bottom: 48px;
+}
+
 /* cores */
 .headline {
   color: #E1624F;
@@ -56,6 +60,27 @@ h3 {
   color: #1B1B1B;
   font-weight: bold;
 }
+
+.blue {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+.orange {
+  color: #E95E10;
+  font-weight: bold;
+}
+
+.pink {
+  color: #E5245E;
+  font-weight: bold;
+}
+
+.purple {
+  color: #591B98;
+  font-weight: bold;
+}
+
 
 /* Imagem e divisor */
 
